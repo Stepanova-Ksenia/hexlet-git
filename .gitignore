@@ -1,0 +1,5 @@
+node_modules
+/coverage
+/db/*.sqlite3
+doc/**/*.txt
+~/fs/hexlet-git/INFO.md
